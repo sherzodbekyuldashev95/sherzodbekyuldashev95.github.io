@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sherzodbekyuldashev95.github.io/sitemap.xml

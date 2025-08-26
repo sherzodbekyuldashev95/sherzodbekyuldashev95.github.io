@@ -1,0 +1,22 @@
+title: "My Minimal Blog"
+description: "Thoughts and notes."
+url: "https://sherzodbekyuldashev95.github.io"
+theme: minima
+
+# Minima settings
+minima:
+  date_format: "%Y-%m-%d"
+
+# Enable RSS feed and sitemap (both supported by GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Navigation links (optional)
+header_pages:
+  - about.md
